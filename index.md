@@ -26,7 +26,7 @@ If you have any dietary requirements, please note them in your ticket and we wil
 ## Talks
 BBQCon isn't about the talks, but we will have some... with a twist! Talks will probably be 0-15 minutes long, around the fire, without any powerpoint in sight. Talks also don't have to be technical in nature - in fact they're encouraged not to be. So please do volunteer to do a talk on something that interests you!
 
-For example, "How to kick people into the future" or "How to make the perfect coctail". You get the idea.. Feel free to bring props, altho pressure vessels and/or explosives are forbidden! :P
+For example, "How to kick people into the future" or "How to make the perfect cocktail". You get the idea.. Feel free to bring props, altho pressure vessels and/or explosives are forbidden! :P
 
 Speak to Don Lor if you'd like to do a talk and he will make sure you get the time to do so.
 
