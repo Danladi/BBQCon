@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## What is BBQCon?
+Lets be honest, we mostly go to cons to drink beer and catch up with our mates... So why not have a con that focusses on that rather than talks and workshops?
 
-You can use the [editor on GitHub](https://github.com/Danladi/BBQCon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Enter BBQCon!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're going to sit in a field, BBQ, drink beer, chat shit and anything else is a bonus :)
 
-### Markdown
+At least for this time, it is a private, invite-only event for friends. If you're reading this, you're probably invited. If you have any friends you can vouch for that would like to come, that's fine as well.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Where?
+Sutton, SK11
 
-```markdown
-Syntax highlighted code block
+Precise location will be provided privately.
 
-# Header 1
-## Header 2
-### Header 3
+## When
+* From: August 18th 16:00
+* To: August 19th 12:00
 
-- Bulleted
-- List
+## Food / Drinks
+Food for 18th and breakfast on 19th is included in the ticket cost - drinks are not. BYOB.
 
-1. Numbered
-2. List
+We're going to try and get a selection of weird and wonderful meats, as well as your normal burgers, sausages, etc. 
 
-**Bold** and _Italic_ and `Code` text
+If you have any dietary requirements, please note them in your ticket and we will accomodate.
 
-[Link](url) and ![Image](src)
-```
+## Talks
+BBQCon isn't about the talks, but we will have some... with a twist! Talks will probably be 0-15 minutes long, around the fire, without any powerpoint in sight. Talks also don't have to be technical in nature - in fact they're encouraged not to be. So please do volunteer to do a talk on something that interests you!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For example, "How to kick people into the future" or "How to make the perfect coctail". You get the idea.. Feel free to bring props, altho pressure vessels and/or explosives are forbidden! :P
 
-### Jekyll Themes
+Speak to Don Lor if you'd like to do a talk and he will make sure you get the time to do so.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Danladi/BBQCon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Camping
+Camping is included in the ticket price, at the same location. There's toilets and a water supply onsite and you can have a shower for an extra £2 on the day. We'll also have a marquee as a communal space with music hopefully and for if the weather goes bad. Wouldn't recommend sleepig in it though!
 
-### Support or Contact
+Everything else you will need to bring yourself. At a minimum I'd recommend bringing:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* A tent
+* Camp bed
+* Sleeping Bag + pillow
+* Chair
+* Water bottle
+* Big Coat
+
+## Parking
+There's a decent amount of parking onsite, less than 100m from where we'll be camped out.
+
+## Cost
+£20 per ticket which purely covers the cost of food and camping.
+
+Payment made here: https://monzo.me/danielforse/20.00?d=BBQCon
+
+Or just give me cash.
+
+## Helping Out
+If you'd like to help out at all with organising all of this - contact Dan :)
