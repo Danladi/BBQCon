@@ -31,7 +31,7 @@ For example, "How to kick people into the future" or "How to make the perfect co
 Speak to Don Lor if you'd like to do a talk and he will make sure you get the time to do so.
 
 ## Camping
-Camping is included in the ticket price, at the same location. There's toilets and a water supply onsite and you can have a shower for an extra £2 on the day. We'll also have a marquee as a communal space with music hopefully and for if the weather goes bad. Wouldn't recommend sleepig in it though!
+Camping is included in the ticket price, at the same location. There's toilets and a water supply onsite and you can have a shower for an extra £2 on the day. We'll also have a marquee as a communal space with music hopefully and for if the weather goes bad. Wouldn't recommend sleeping in it though!
 
 Everything else you will need to bring yourself. At a minimum I'd recommend bringing:
 
@@ -42,11 +42,17 @@ Everything else you will need to bring yourself. At a minimum I'd recommend brin
 * Water bottle
 * Big Coat
 
+
+## Pets
+Unfortunately no pets are allowed onsite.
+
 ## Parking
 There's a decent amount of parking onsite, less than 100m from where we'll be camped out.
 
 ## Cost
 £20 per ticket which purely covers the cost of food and camping.
+
+If camping is a deal-breaker for you, you can do just the 18th for £14. I'd strongly recommend camping though if you can :)
 
 Payment made here: [https://monzo.me/danielforse/20.00?d=BBQCon](https://monzo.me/danielforse/20.00?d=BBQCon)
 
