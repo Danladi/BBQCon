@@ -8,7 +8,7 @@ We're going to sit in a field, BBQ, drink beer, chat shit and anything else is a
 At least for this time, it is a private, invite-only event for friends. If you're reading this, you're probably invited. If you have any friends you can vouch for that would like to come, that's fine as well.
 
 ## Where?
-Sutton, SK11
+Mark's house - camping nearby.
 
 Precise location will be provided privately.
 
